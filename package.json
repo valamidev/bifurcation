@@ -1,0 +1,19 @@
+{
+  "name": "bifurcation",
+  "version": "1.0.1",
+  "description": "Bifurcation number generator",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Bifurcation",
+    "Chaos-theory",
+    "Random"
+  ],
+  "author": "Valamidev",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
