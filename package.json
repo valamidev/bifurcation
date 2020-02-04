@@ -1,6 +1,6 @@
 {
   "name": "bifurcation",
-  "version": "1.0.1",
+  "version": "1.0.11",
   "description": "Bifurcation number generator",
   "main": "build/index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "Chaos-theory",
     "Random"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valamidev/bifurcation.git"
+  },
   "author": "Valamidev",
   "license": "ISC",
   "devDependencies": {
